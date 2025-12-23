@@ -1,1 +1,1 @@
-# MTRDC-Internship
+This repository contains the internship report completed at MTRDC–DRDO and its academic extension carried out as a B.Tech Project, focusing on surface roughness modelling and loss analysis of high-frequency waveguide structures.
